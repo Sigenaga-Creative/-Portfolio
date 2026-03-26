@@ -14,7 +14,6 @@ https://github.com/Sigenaga-Creative/Calendar2026_Csharp_app
 
 https://youtu.be/g82Nh0a4Xpg
 
-**************************
 
 制作日：2025年6月
 
@@ -36,7 +35,7 @@ https://github.com/Sigenaga-Creative/TaskBank_Csharp_app
 
 https://youtu.be/q2GH4P32xAI
 
-**************************
+
 
 制作日：2025年10月
 
